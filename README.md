@@ -62,6 +62,3 @@ Saques realizados: R$100.00
 
 Sinta-se à vontade para contribuir com melhorias neste projeto. Se você encontrar algum erro ou tiver sugestões de melhorias, crie uma issue ou um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes
