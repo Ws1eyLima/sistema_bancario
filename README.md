@@ -42,22 +42,14 @@ Este é um sistema bancário simples desenvolvido em Python que permite ao usuá
 ## Exemplos de Entrada e Saída
 
 **Entrada:**
-Digite a opção desejada: 1 Digite o valor do Saque: R$100
-
-makefile
-Copiar código
+Digite a opção desejada: 1
+Digite o valor do Saque: R$100
 
 **Saída:**
 Saque de R$100.00 realizado com sucesso!
 
-makefile
-Copiar código
-
 **Entrada:**
 Digite a opção desejada: 3
-
-makefile
-Copiar código
 
 **Saída:**
 Seu saldo atual é: R$100.00
@@ -65,9 +57,6 @@ Seu saldo atual é: R$100.00
 Depósitos realizados: R$100.00
 
 Saques realizados: R$100.00
-
-css
-Copiar código
 
 ## Contribuições
 
